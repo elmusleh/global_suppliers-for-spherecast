@@ -1,5 +1,8 @@
 # Spherecast Hackathon: Agnes AI Prototype
 
+> [!NOTE]
+> **Project status: completed hackathon project (Spherecast challenge, Apr 2026), no longer maintained.** The repository is archived. The final presentation is [Final_Presentation_Global_Suppliers_Spherecast.pdf](Final_Presentation_Global_Suppliers_Spherecast.pdf). Organiser-provided briefing documents are not included.
+
 An AI-powered decision-support system that consolidates fragmented raw material sourcing in the Consumer Packaged Goods (CPG) industry. This project aims to optimize Spherecast's current supply chain management approach by building a more robust AI pipeline.
 
 ## Project Overview

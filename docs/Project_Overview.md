@@ -192,7 +192,6 @@ This repository lives on an `exfat` filesystem that does not support symlinks. S
 - `RAG_Architecture.md` - RAG system design, KB contents, retrieval pipeline, RAGAS-lite metrics, production upgrade path
 - `Technical_Implementation_Guide.md` - Developer setup and usage guide
 - `Business_Value.md` - ROI analysis and case studies
-- `NotebookLM_Summary.md` - Consolidated reference for AI analysis
 
 ## Quick Start
 

@@ -64,3 +64,6 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 agnes.log
+
+# Runtime monitoring log written by the notebook
+agnes_monitoring_log.json
